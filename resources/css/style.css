@@ -18,7 +18,7 @@ h2.header--secondary {
     color: white;
 }
 
-h2.header--sub-header {
+h4.header--sub-header {
     font-size: 21px;
     color: gray;
 }
