@@ -12,13 +12,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #fff;
 }
 
-.header--secondary {
+h2.header--secondary {
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
 
-.header--sub-header {
+h2.header--sub-header {
     font-size: 21px;
     color: gray;
 }
